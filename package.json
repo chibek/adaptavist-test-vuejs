@@ -1,5 +1,5 @@
 {
-  "name": "vite-vue3-tailwind-starter",
+  "name": "adaptavist-test-vuejs",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite --host",

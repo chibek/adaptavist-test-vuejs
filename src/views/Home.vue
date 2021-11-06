@@ -120,7 +120,7 @@
                     if (objIndex === -1) {
                         const occurrence = {};
                         occurrence.word = word;
-                        occurrence.count = 0;
+                        occurrence.count = 1;
                         listWords.value.push(occurrence);
                         continue;
                     }
